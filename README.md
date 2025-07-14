@@ -1,4 +1,5 @@
-##Greetings to ya'll!
+## Greetings to ya'll!
+
 I'm Nathaniel Rae Marquez, an aspiring backend software developer. I am currently a second year studying at Angeles University Foundation and I enjoy expanding my knowledge in the field of programming.
 
 <!--###Currently Learning-->
